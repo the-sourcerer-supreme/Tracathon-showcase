@@ -57,7 +57,7 @@ Spreadsheets don't remind you. Notes apps don't track your stages. And your memo
 - Three modes: **In-app only**, **Email only**, or **In-app + Email**
 - Deadline reminders fire automatically based on your preference
 
-### Adding hackathons — four ways
+### Adding hackathons — three ways
 | Method | How it works |
 |--------|-------------|
 | **Manual entry** | Fill in details yourself |
