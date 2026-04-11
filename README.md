@@ -62,7 +62,6 @@ Spreadsheets don't remind you. Notes apps don't track your stages. And your memo
 |--------|-------------|
 | **Manual entry** | Fill in details yourself |
 | **Paste website text** | Copy-paste text from a hackathon page — Tracathon extracts name, stages, deadlines, rewards, and platform automatically |
-| **Paste website URL** | Drop the URL — Tracathon fetches and parses the page |
 | **Tracathon share link** | A teammate shares a link — you paste it and all details import instantly |
 
 ### Sharing
@@ -87,8 +86,8 @@ Spreadsheets don't remind you. Notes apps don't track your stages. And your memo
 | Backend | Node.js + Express |
 | Database | MongoDB Atlas |
 | Auth | Google OAuth 2.0 + Email/Password |
-| Email | Resend |
-| Deployment | Vercel |
+| Email | Brevo |
+| Deployment | Vercel + Render |
 
 ---
 
