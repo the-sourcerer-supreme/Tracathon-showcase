@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./public/Tracathon-logo2.png" alt="Tracathon Logo" width="80" />
+<img src="./public/tracathon-logo.png" alt="Tracathon Logo" width="80" />
 
 # Tracathon
 
@@ -12,7 +12,7 @@ Track every hackathon you register for — deadlines, stages, reminders, insight
 [![Made with React](https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-
+[![Backend on Render](https://img.shields.io/badge/Backend%20on-Render-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://render.com)
 </div>
 
 ---
@@ -96,15 +96,15 @@ Spreadsheets don't remind you. Notes apps don't track your stages. And your memo
 
 > Dashboard · Priority View
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.jpg)
 
 > Hackathons · Active View
 
-![Hackathons](./screenshots/hackathons.png)
+![Hackathons](./screenshots/hackathons.jpg)
 
 > Calendar · Stage Deadlines
 
-![Calendar](./screenshots/calendar.png)
+![Calendar](./screenshots/calendar.jpg)
 
 > Insights · Graphs & Stats
 
@@ -192,7 +192,7 @@ Tracathon sends contextual transactional emails for:
 
 This is a **public showcase repository**. The full source code is not open source. This repository exists to document the project, its architecture, and its features.
 
-If you'd like to try the product, it's **free and live** at [tracathon.com](https://tracathon.com).
+If you'd like to try the product, it's **free and live** at [tracathon.com](https://tracathon.in).
 
 ---
 
@@ -209,6 +209,6 @@ If you'd like to try the product, it's **free and live** at [tracathon.com](http
 **Stop forgetting the hackathons you care about.**  
 **Start showing up to every one that matters.**
 
-[**Try Tracathon — Free**](https://tracathon.com)
+[**Try Tracathon — Free**](https://tracathon.in)
 
 </div>
