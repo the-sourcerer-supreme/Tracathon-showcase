@@ -8,7 +8,7 @@
 
 Track every hackathon you register for — deadlines, stages, reminders, insights, and more. In one calm workspace.
 
-[![Live](https://img.shields.io/badge/Live%20Demo-tracathon.in-FF1F7D?style=for-the-badge&logo=vercel&logoColor=white)](https://tracathon.in)
+[![Live](https://img.shields.io/badge/Live%20-tracathon.in-FF1F7D?style=for-the-badge&logo=vercel&logoColor=white)](https://tracathon.in)
 [![Made with React](https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
