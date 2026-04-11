@@ -198,7 +198,7 @@ If you'd like to try the product, it's **free and live** at [tracathon.in](https
 
 ## Built by
 
-**Ash** — designed, built, and shipped solo.
+**the-sourcerer-supreme** — designed, built, and shipped solo.
 
 [![YouTube](https://img.shields.io/badge/YouTube-Tracathon-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@tracathon)
 
