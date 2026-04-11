@@ -192,7 +192,7 @@ Tracathon sends contextual transactional emails for:
 
 This is a **public showcase repository**. The full source code is not open source. This repository exists to document the project, its architecture, and its features.
 
-If you'd like to try the product, it's **free and live** at [tracathon.com](https://tracathon.in).
+If you'd like to try the product, it's **free and live** at [tracathon.in](https://tracathon.in).
 
 ---
 
