@@ -62,6 +62,7 @@ Spreadsheets don't remind you. Notes apps don't track your stages. And your memo
 |--------|-------------|
 | **Manual entry** | Fill in details yourself |
 | **Paste website text** | Copy-paste text from a hackathon page — Tracathon extracts name, stages, deadlines, rewards, and platform automatically |
+| **Import from URL** | Paste any public hackathon page link — Tracathon fetches the page and necessary details automatically |
 | **Tracathon share link** | A teammate shares a link — you paste it and all details import instantly |
 
 ### Sharing
